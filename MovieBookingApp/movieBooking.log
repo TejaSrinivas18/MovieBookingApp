@@ -1,0 +1,47 @@
+2022-09-11-main-ERROR-root      :Exception Occured :: user registration failed
+2022-09-11-main-ERROR-root      :Exception Occured :: user registration failed
+2022-09-11-main-ERROR-root      :Exception Occured :: user registration failed
+2022-09-12-main-ERROR-root      :Validation Errors :: [
+ User Name Should Be In Alphabets and minimum 5 characters and maximum 15 characters ! 
+, 
+ Password Should Be Greater Than 7 Characters and Atmost 15 Characters and Atleast One Upper Case and Atleast One Lower Case and Atleast One Digit and Atleast One Special Character 
+]
+ 2022-09-12-main-INFO -root      :user registration completed
+ 2022-09-12-main-ERROR-root      :Exception Occured :: Invalid username
+ 2022-09-12-main-INFO -root      :DONE
+ 2022-09-12-main-INFO -root      :Payment Completed Successfully!!
+ 2022-09-12-main-ERROR-root      :Exception Occured :: java.sql.SQLIntegrityConstraintViolationException: ORA-02291: integrity constraint (HR.FK_BOOKING) violated - parent key not found
+
+ 2022-09-12-main-INFO -root      :Ticket Booked Successfully!!
+ 2022-09-12-main-ERROR-root      :Exception Occured :: seats not booked
+ 2022-09-12-main-ERROR-root      :Exception Occured :: seats not booked
+ 2022-09-12-main-ERROR-root      :Exception Occured :: Invalid movie id or theatre id
+ 2022-09-12-main-ERROR-root      :Exception Occured :: seats not booked
+ 2022-09-12-main-ERROR-root      :Exception Occured :: seats not booked
+ 2022-09-12-main-ERROR-root      :Exception Occured :: com.moviebooking.exception.MovieBookingException: User not found in database
+ 2022-09-12-main-ERROR-root      :Exception Occured :: java.lang.NullPointerException
+ 2022-09-12-main-ERROR-root      :Invalid username
+ 2022-09-12-main-ERROR-root      :Exception Occured :: com.moviebooking.exception.MovieBookingException: Invalid username
+ 2022-09-12-main-ERROR-root      :Exception Occured :: Invalid movie id or theatre id
+ 2022-09-12-main-ERROR-root      :Exception Occured :: com.moviebooking.exception.MovieBookingException: Invalid movie id or theatre id
+ 2022-09-12-main-ERROR-root      :Exception Occured :: user registration failedcom.moviebooking.exception.MovieBookingException: Validation Errors :: [
+ User Name Should Be In Alphabets and minimum 5 characters and maximum 15 characters ! 
+, 
+ Phone Number Should be in 10 digit and it supports indian numbers only 
+, 
+ Role Should be either admin or normal 
+]
+ 2022-09-12-main-ERROR-root      :Exception Occured :: user registration failedcom.moviebooking.exception.MovieBookingException: Validation Errors :: [
+ User Name Should Be In Alphabets and minimum 5 characters and maximum 15 characters ! 
+, 
+  
+, 
+ Phone Number Should be in 10 digit and it supports indian numbers only 
+, 
+ Role Should be either admin or normal 
+]
+ 2022-09-12-main-ERROR-root      :Invalid username
+ 2022-09-12-main-ERROR-root      :Exception Occured :: com.moviebooking.exception.MovieBookingException: Invalid username
+ 2022-09-13-main-ERROR-root      :Exception Occured :: The seat number: A5 is already booked
+ 2022-09-13-main-ERROR-root      :Exception Occured :: com.moviebooking.exception.AlreadyBookedException: The seat number: A5 is already booked
+ 
